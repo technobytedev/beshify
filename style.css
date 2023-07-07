@@ -1,0 +1,63 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    font-family: 'Kalam', cursive;
+    font-weight: 200;
+    
+  }
+
+h1 {
+    color: #FF9310;
+    text-align: center;
+}
+  
+  .main {
+    margin-top: -150px;
+    max-width: 600px;
+    max-height: 500px;
+    background-color: #FFF4E6;
+    padding: 40px;
+    box-shadow: 5px 6px 5px 6px #888888;
+  }
+  
+  form {
+    width: 100%;
+    text-align: center;
+  }
+
+  button {
+    padding: 10px;
+    border:none;
+    background-color: #FF9310;
+    color: white;
+    
+  }
+
+  textarea {
+    font-size: 17px;
+    font-family: 'Kalam', cursive;
+    width: 100%;
+
+  }
+
+#beshified_phrase {
+    font-size: 20px;
+    max-width: 400px;
+    background-color: white!important;
+  }
+
+#alert {
+    background-color: aquamarine;
+    color: black
+}
+
+#slogan {
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 1px;
+
+}
